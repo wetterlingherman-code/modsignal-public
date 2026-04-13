@@ -1,4 +1,4 @@
-Sprint 1
+## Sprint 1
 
 Mål med sprinten:
 
