@@ -1,3 +1,5 @@
+Here we have the questions we asked the interview object from Riks
+
 1. Användar-Inputs:
 -  Hur ser ert dagliga arbeteflöde ut gällande moderering?
 - Hur går ert beslutstagande gällande kommentarer som är på gränsen, friar eller fäller man hellre?
