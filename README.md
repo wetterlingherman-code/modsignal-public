@@ -28,4 +28,3 @@ Projektet genomförs enligt Design Thinking-processen och organiseras i sprintar
 - Oscar Nilsson
 - Fredrik Nordevik
 - Herman Wetterling
-- Namn 5
