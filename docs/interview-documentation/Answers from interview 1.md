@@ -1,4 +1,4 @@
-##
+## Interview 1 answers
 
 - It is typically more moderation closer to elections  
 - Reports about individuals, especially those in power, often create strong reactions and require more moderation  
