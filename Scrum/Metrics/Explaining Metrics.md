@@ -5,6 +5,7 @@ Velocity - We created 23 task and completed 22 of them. From this we assume we c
 Cycle time - When a task was added to "in progress" it took us 2.4 days to complete the task. We're farly happy with this, we had some task that took 10+ days to complete. But that had more to do with the task itself than our workflow.
 
 Activity - We measured the acitivty in the group, we had 2 members who had to work and missed a few days in the beggining - no problem in the long run.
+
 Task of completed - Same as activity, just in numbers.
 
 Time estimate - How much time we estimated, how long it took and no data represent when we forgor to estimate the time. We made a few problems here: 
